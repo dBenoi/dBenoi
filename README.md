@@ -10,6 +10,10 @@
 # Current Projects
 - 🕸️Building a personal portfolio website
 - 💼Building a website for my startup
+- 🗄️Also working on a CRUD web app for an asset database.
+
+##Courses
+Colt Steele - [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22101642#overview)
 
 <!---
 dBenoi/dBenoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
