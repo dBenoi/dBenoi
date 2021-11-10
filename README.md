@@ -8,6 +8,7 @@
 - 🖥️ Working on my own VPS, it's hosted and just needs content
 
 # Current Projects
+- 🪓The Odin Project
 - 🕸️Building a personal portfolio website
 - 💼Building a website for my startup
 - 🗄️Also working on a CRUD web app for an asset database.
