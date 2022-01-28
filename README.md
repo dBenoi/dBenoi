@@ -14,9 +14,9 @@
 - 💼Building a Network Asset Management App
 
 ## Courses
-Colt Steele - [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22101642#overview)
-Codecademy - Full Stack Engineer Path
-Codecademy - Python Basics
+- Colt Steele - [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22101642#overview)
+- Codecademy - Full Stack Engineer Path
+- Codecademy - Python Basics
 
 <!---
 dBenoi/dBenoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
