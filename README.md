@@ -8,6 +8,8 @@
 
 # Current Projects
 - 🪓The Odin Project
+- 🔰 FreeCodeCamp
+- 🏫 Codecademy
 - 🕸️Building a personal portfolio website
 - 💼Building a Network Asset Management App
 
