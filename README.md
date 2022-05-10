@@ -3,8 +3,8 @@
 - 🛰️ Network Administrator/IT Manager
 - 👀 I’m taking the codecademy carrer path in full stack web development
 - 💞️ I’m looking to collaborate on web projects
-- 💻 Apple and linux are my preferred dev environments
-- 🖥️ Hosting my own Apache server on a VPS
+- 💻 MacOS and linux are my preferred dev environments
+- 🖥️ Linode is my hosting platform
 
 # Current Projects
 - 🪓The Odin Project
